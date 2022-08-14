@@ -8,7 +8,7 @@
 
 English:
 
-A scoreboard for the Americano playing card game.
+A mobile application of a scoreboard for the Americano playing card game.
 
 In this .NET solution, I developed a mobile application using Xamarin.Forms for the Americano playing cards game to keep the game scores. The goal of this study was to develop a user interface that my family can use in this game they play often. With this study, which was very instructive for me, who is a beginner to software development, I created my first application and also prevent wastage of paper a little :). I never claim to have developed the best application to do this job, it is quite obvious that I am novice. But still, I tried to be as error free as possible.
 
