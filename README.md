@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/94300970/184557106-348efa02-83dc-4128-9c81-14327c715566.png" align="left" height="468" width="216">
 <img src="https://user-images.githubusercontent.com/94300970/184557107-6fc25d50-1a23-4129-85fa-30f9eccce075.png" align="left" height="468" width="216">
-<img src="https://user-images.githubusercontent.com/94300970/184557104-aa86cd3d-21a8-40bf-9188-0a7b7e45a4b0.png" align="left" height="468" width="216">
+<img src="https://user-images.githubusercontent.com/94300970/184615830-e592653d-ab1e-402e-8635-bc1899a94b2f.png" align="left" height="468" width="216">
 <img src="https://user-images.githubusercontent.com/94300970/184557105-21caf57b-e213-41e3-8e12-3b604084d1bd.png" height="468" width="216">
 <br>
 
@@ -22,7 +22,7 @@ The code files here are the files in the Class Library project under the Xamarin
 
 Türkçe:
 
-Amerikano iskambil oyunu için skor tutma uygulaması.
+Amerikano iskambil oyunu için skor tutma mobil uygulaması.
 
 Bu .NET çözümünde, Amerikano iskambil oyununda oyun skorlarını tutmak için Xamarin.Forms kullanarak bir mobil uygulama geliştirdim. Bu çalışmanın amacı, ailemin sıklıkla oynadığı bu oyunda kullanabilecekleri bir kullanıcı arayüzü geliştirmekti. Yazılım geliştirmeye yeni başlayan benim için çok öğretici olan bu çalışma ile hem ilk uygulamamı oluşturdum hem de biraz olsun kağıt israfını engelledim :). Bu işi yapmak için en iyi uygulamayı geliştirdiğimi asla iddia etmiyorum, ne kadar acemi olduğum açık. Ama yine de olabildiğince hatasız olmaya çalıştım.
 
